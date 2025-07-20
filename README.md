@@ -36,6 +36,7 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
         ⬆️                            ⬇️
      React UI (Optional)         AI-generated Reply
 
+---
 
 ✨ Key Highlights
 
@@ -46,6 +47,8 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
 - 💻 Material UI-powered web interface
 - 🔍 Mutation Observer tracks Gmail’s dynamic UI changes
 
+---
+
 🧠 What I Learned
 
 - Building REST APIs and integrating external LLM APIs using Spring AI
@@ -53,6 +56,8 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
 - Structuring scalable full-stack applications
 - Handling Gmail's dynamic DOM using JavaScript and MutationObserver
 - Packaging and testing Chrome extensions
+
+---
 
 🚧 Future Enhancements
 
@@ -62,11 +67,15 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
 - 📝 Add logging and error tracking
 - 📜 Create reply templates and history management
 
+---
+
 🖼️ Screenshots
 
 Gmail Integration	AI Reply Interface
 <img width="799" height="620" alt="20 07 2025_18 41 41_REC" src="https://github.com/user-attachments/assets/5d6662d2-48ce-44a6-a0ca-c2c076022432" />
+<img width="428" height="402" alt="20 07 2025_18 42 29_REC" src="https://github.com/user-attachments/assets/8ffd74f2-685b-42ad-a6bd-beb57437a18b" />
 
+---
 
 🙋‍♀️ About Me
 Hi! I'm a developer passionate about building intelligent tools with real-world impact. This project helped me combine my interests in backend systems, AI, and web automation. I built it as a self-learning initiative to explore full-stack development with emerging AI technologies.
