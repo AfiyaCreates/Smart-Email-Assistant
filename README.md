@@ -74,8 +74,9 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
 <table>
   <tr>
     <td align="center">
-      <img width="400" height="310" alt="Gmail Integration" src="https://github.com/user-attachments/assets/ced085d2-215c-45af-8885-91fbef7c2601" />
-      <br><strong>Gmail Integration</strong>
+      <img width="400" height="310" alt="Gmail Integration" src=<img width="811" height="540" alt="20 07 2025_18 51 38_REC" src="https://github.com/user-attachments/assets/db19f694-f6e1-4547-997c-c6b11cdcd098" />
+ />
+      <br><strong>Generating Reply (UI)</strong>
     </td>
     <td align="center">
       <img width="400" height="310" alt="AI Reply Interface" src="https://github.com/user-attachments/assets/5d6662d2-48ce-44a6-a0ca-c2c076022432" />
@@ -85,7 +86,7 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
 </table>
 <p align="center">
   <img width="428" height="402" alt="Reply Output View" src="https://github.com/user-attachments/assets/8ffd74f2-685b-42ad-a6bd-beb57437a18b" />
-  <br><strong>Reply Output View</strong>
+  <br><strong>Reply Console logs (from extension or backend)</strong>
 </p>
 
 ---
