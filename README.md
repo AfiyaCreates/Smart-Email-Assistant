@@ -38,7 +38,7 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
 
 ---
 
-✨ Key Highlights
+## ✨ Key Highlights
 
 - 📬 AI-generated replies tailored for Gmail threads
 - 🧠 Toggle between professional and friendly tones
@@ -49,7 +49,7 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
 
 ---
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 - Building REST APIs and integrating external LLM APIs using Spring AI
 - Managing cross-origin requests securely with CORS
@@ -59,7 +59,7 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
 
 ---
 
-🚧 Future Enhancements
+## 🚧 Future Enhancements
 
 - 🔒 Add user authentication and role-based access
 - 🗣️ Support more reply styles (casual, detailed, concise)
@@ -69,7 +69,7 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
 
 ---
 
-🖼️ Screenshots
+## 🖼️ Screenshots
 
 Gmail Integration	AI Reply Interface
 <img width="799" height="620" alt="20 07 2025_18 41 41_REC" src="https://github.com/user-attachments/assets/5d6662d2-48ce-44a6-a0ca-c2c076022432" />
@@ -77,7 +77,7 @@ Gmail Integration	AI Reply Interface
 
 ---
 
-🙋‍♀️ About Me
+## 🙋‍♀️ About Me
 Hi! I'm a developer passionate about building intelligent tools with real-world impact. This project helped me combine my interests in backend systems, AI, and web automation. I built it as a self-learning initiative to explore full-stack development with emerging AI technologies.
 
 Feel free to explore, fork, or reach out for collaboration!
