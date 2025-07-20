@@ -71,10 +71,22 @@ Chrome Extension ———> Spring Boot API ———> Gemini API
 
 ## 🖼️ Screenshots
 
-Gmail Integration	AI Reply Interface
-|--------------------|-----------------|
-| ![](<img width="799" height="620" alt="20 07 2025_18 41 41_REC" src="https://github.com/user-attachments/assets/ced085d2-215c-45af-8885-91fbef7c2601" />) | ![](<img width="799" height="620" alt="20 07 2025_18 41 41_REC" src="https://github.com/user-attachments/assets/5d6662d2-48ce-44a6-a0ca-c2c076022432" />) |
-<img width="428" height="402" alt="20 07 2025_18 42 29_REC" src="https://github.com/user-attachments/assets/8ffd74f2-685b-42ad-a6bd-beb57437a18b" />
+<table>
+  <tr>
+    <td align="center">
+      <img width="400" height="310" alt="Gmail Integration" src="https://github.com/user-attachments/assets/ced085d2-215c-45af-8885-91fbef7c2601" />
+      <br><strong>Gmail Integration</strong>
+    </td>
+    <td align="center">
+      <img width="400" height="310" alt="AI Reply Interface" src="https://github.com/user-attachments/assets/5d6662d2-48ce-44a6-a0ca-c2c076022432" />
+      <br><strong>AI Reply Interface</strong>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <img width="428" height="402" alt="Reply Output View" src="https://github.com/user-attachments/assets/8ffd74f2-685b-42ad-a6bd-beb57437a18b" />
+  <br><strong>Reply Output View</strong>
+</p>
 
 ---
 
